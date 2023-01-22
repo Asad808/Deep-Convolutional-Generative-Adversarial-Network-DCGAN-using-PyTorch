@@ -1,5 +1,7 @@
 # Deep-Convolutional-Generative-Adversarial-Network-DCGAN-using-PyTorch
 
+- Dataset: Fashion MNIST
+
 Deeper understanding of the process of creating and training a GAN model. Specifically: 
 
 - Use the DataLoader class to load the dataset into batches 
